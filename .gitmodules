@@ -13,3 +13,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = https://msrba@github.com/gwdg/puppetlabs-postgresql.git
+[submodule "inifile"]
+	path = inifile
+	url = https://msrba@github.com/gwdg/puppetlabs-inifile.git
