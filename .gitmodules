@@ -7,3 +7,6 @@
 [submodule "puppetdb"]
 	path = puppetdb
 	url = https://msrba@github.com/gwdg/puppetlabs-puppetdb.git
+[submodule "stdlib"]
+	path = stdlib
+	url = https://msrba@github.com/gwdg/puppetlabs-stdlib.git
