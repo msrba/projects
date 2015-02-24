@@ -4,3 +4,6 @@
 [submodule "apache"]
 	path = apache
 	url = https://msrba@github.com/gwdg/puppetlabs-apache.git
+[submodule "puppetdb"]
+	path = puppetdb
+	url = https://msrba@github.com/gwdg/puppetlabs-puppetdb.git
