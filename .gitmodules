@@ -1,0 +1,6 @@
+[submodule "redmine"]
+	path = redmine
+	url = https://msrba@github.com/msrba/johanek-redmine.git
+[submodule "apache"]
+	path = apache
+	url = https://msrba@github.com/gwdg/puppetlabs-apache.git
