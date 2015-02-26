@@ -19,3 +19,6 @@
 [submodule "aptcacherng"]
 	path = aptcacherng
 	url = https://msrba@github.com/gwdg/puppet-aptcacherng.git
+[submodule "concat"]
+	path = concat
+	url = https://msrba@github.com/gwdg/puppetlabs-concat.git
