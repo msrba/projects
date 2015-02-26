@@ -22,3 +22,9 @@
 [submodule "concat"]
 	path = concat
 	url = https://msrba@github.com/gwdg/puppetlabs-concat.git
+[submodule "ntp"]
+	path = ntp
+	url = https://msrba@github.com/gwdg/puppetlabs-ntp.git
+[submodule "apt"]
+	path = apt
+	url = https://msrba@github.com/gwdg/puppetlabs-apt.git
