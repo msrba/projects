@@ -28,3 +28,6 @@
 [submodule "apt"]
 	path = apt
 	url = https://msrba@github.com/gwdg/puppetlabs-apt.git
+[submodule "mysql"]
+	path = mysql
+	url = https://msrba@github.com/gwdg/puppetlabs-mysql.git
