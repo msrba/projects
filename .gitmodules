@@ -16,3 +16,6 @@
 [submodule "inifile"]
 	path = inifile
 	url = https://msrba@github.com/gwdg/puppetlabs-inifile.git
+[submodule "aptcacherng"]
+	path = aptcacherng
+	url = https://msrba@github.com/gwdg/puppet-aptcacherng.git
