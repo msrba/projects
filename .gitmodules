@@ -31,3 +31,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = https://msrba@github.com/gwdg/puppetlabs-mysql.git
+[submodule "vcsrepo"]
+	path = vcsrepo
+	url = https://msrba@github.com/gwdg/puppetlabs-vcsrepo.git
