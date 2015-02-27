@@ -7,5 +7,5 @@ class gwdg::projects::redmine(
   class { 'apache': }
   class { 'apache::mod::passenger': }
   class { '::mysql::server': }
-  class { 'redmine': }
+  class { '::redmine': }
 }
