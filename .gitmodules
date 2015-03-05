@@ -34,3 +34,6 @@
 [submodule "vcsrepo"]
 	path = vcsrepo
 	url = https://msrba@github.com/gwdg/puppetlabs-vcsrepo.git
+[submodule "firewall"]
+	path = firewall
+	url = https://msrba@github.com/gwdg/puppetlabs-firewall.git
